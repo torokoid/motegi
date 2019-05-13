@@ -116,6 +116,7 @@ screen and (orientation: landscape) {
 <a href="20190512_039.JPG" data-lightbox="abc"><img src="20190512_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190512_040.JPG" data-lightbox="abc"><img src="20190512_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190512_041.JPG" data-lightbox="abc"><img src="20190512_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190512_042.JPG" data-lightbox="abc"><img src="20190512_042.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
