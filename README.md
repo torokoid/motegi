@@ -69,7 +69,7 @@ screen and (orientation: landscape) {
  
  
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2562/05/14 Ooya ishi !!!</marquee></span></h1>
+
 
 
 <p class="note">
@@ -77,6 +77,8 @@ screen and (orientation: landscape) {
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
+
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2562/05/14 Ooya ishi !!!</marquee></span></h1>
 
 <a href="20190514_001.JPG" data-lightbox="abc"><img src="20190514_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190514_002.JPG" data-lightbox="abc"><img src="20190514_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -91,7 +93,8 @@ screen and (orientation: landscape) {
 <a href="20190514_011.JPG" data-lightbox="abc"><img src="20190514_011.JPG" alt="サンプル画像" width="900" /></a> 
  
 
- 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2562/05/12 Twin Link Motegi !!!</marquee></span></h1>
 
