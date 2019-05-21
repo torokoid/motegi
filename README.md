@@ -129,6 +129,12 @@ screen and (orientation: landscape) {
 <a href="20190518_047.JPG" data-lightbox="abc"><img src="20190518_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190518_048.JPG" data-lightbox="abc"><img src="20190518_048.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br>
+Map<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11685.103526018504!2d139.80854736711274!3d36.46040209568935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sjp!4v1558444685331!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -162,6 +168,12 @@ screen and (orientation: landscape) {
 <a href="20190516_025.JPG" data-lightbox="abc"><img src="20190516_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190516_026.JPG" data-lightbox="abc"><img src="20190516_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190516_027.JPG" data-lightbox="abc"><img src="20190516_027.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br>
+Map<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1087.172399656305!2d139.79639889463306!3d35.710988264495214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2e8d25fba102b7b9!2z44CSMTExLTAwMzIgVMWNa3nFjS10bywgVGFpdG8gQ2l0eSwgQXNha3VzYSwgMS1jaMWNbWXiiJIz4oiSMSDmtYXojYnorablr5_nvbLpm7fploDkuqTnlao!5e1!3m2!1sen!2sjp!4v1558444571289!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -206,6 +218,12 @@ screen and (orientation: landscape) {
 <a href="20190515_035.JPG" data-lightbox="abc"><img src="20190515_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190515_036.JPG" data-lightbox="abc"><img src="20190515_036.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br>
+Map<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5774.4494939213855!2d139.60181154430072!3d36.7547983682244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601fa6d687424223%3A0x392a9fec11582fe7!2sShinkyo+Bridge!5e1!3m2!1sen!2sjp!4v1558444395343!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -223,7 +241,13 @@ screen and (orientation: landscape) {
 <a href="20190514_009.JPG" data-lightbox="abc"><img src="20190514_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190514_010.JPG" data-lightbox="abc"><img src="20190514_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190514_011.JPG" data-lightbox="abc"><img src="20190514_011.JPG" alt="サンプル画像" width="900" /></a> 
- 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br>
+Map<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6281.679187972153!2d139.8191478838556!3d36.596111562294155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x48db205c3fc11f09!2z5bmz5ZKM6Kaz6Z-z!5e1!3m2!1sen!2sjp!4v1558444292584!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -277,6 +301,12 @@ screen and (orientation: landscape) {
 <a href="20190512_042.JPG" data-lightbox="abc"><img src="20190512_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190512_043.JPG" data-lightbox="abc"><img src="20190512_043.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br>
+Map<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13771.921258318138!2d140.22973626577271!3d36.531721002081184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sja!2sjp!4v1557656461967!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -303,7 +333,7 @@ screen and (orientation: landscape) {
 
 <br><br>
 Map<br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13771.921258318138!2d140.22973626577271!3d36.531721002081184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sja!2sjp!4v1557656461967!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12758.933443861222!2d140.2164647586478!3d35.982088500017966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60226e543640efe3%3A0xc2375d4a48bd8b4b!2sUshiku+Buddha!5e1!3m2!1sen!2sjp!4v1558444136930!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 
