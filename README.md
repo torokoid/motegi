@@ -65,10 +65,8 @@ screen and (orientation: landscape) {
    
 </head>
 <body>
-<div>
  ＜a name="mark1"＞ ＜/a＞
- 
-
+ <div>
 
 
 
