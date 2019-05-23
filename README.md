@@ -131,7 +131,7 @@ screen and (orientation: landscape) {
 <br><br>
 Map<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11680.858897265727!2d139.80662997033357!3d36.461630025687626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601f43af5145bf4b%3A0x4d944be2120fc085!2sMibumachi+Toy+Museum!5e1!3m2!1sen!2sjp!4v1558444981437!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<br><a href="head">go to top</a>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -170,7 +170,7 @@ Map<br>
 <br><br>
 Map<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1087.172399656305!2d139.79639889463306!3d35.710988264495214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2e8d25fba102b7b9!2z44CSMTExLTAwMzIgVMWNa3nFjS10bywgVGFpdG8gQ2l0eSwgQXNha3VzYSwgMS1jaMWNbWXiiJIz4oiSMSDmtYXojYnorablr5_nvbLpm7fploDkuqTnlao!5e1!3m2!1sen!2sjp!4v1558444571289!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<br><a href="head">go to top</a>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -219,7 +219,7 @@ Map<br>
 <br><br>
 Map<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5774.4494939213855!2d139.60181154430072!3d36.7547983682244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601fa6d687424223%3A0x392a9fec11582fe7!2sShinkyo+Bridge!5e1!3m2!1sen!2sjp!4v1558444395343!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<br><a href="head">go to top</a>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -243,7 +243,7 @@ Map<br>
 <br><br>
 Map<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6281.679187972153!2d139.8191478838556!3d36.596111562294155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x48db205c3fc11f09!2z5bmz5ZKM6Kaz6Z-z!5e1!3m2!1sen!2sjp!4v1558444292584!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<br><a href="head">go to top</a>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
@@ -302,7 +302,7 @@ Map<br>
 <br><br>
 Map<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13771.921258318138!2d140.22973626577271!3d36.531721002081184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sja!2sjp!4v1557656461967!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<br><a href="head">go to top</a>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -330,7 +330,7 @@ Map<br>
 <br><br>
 Map<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12758.933443861222!2d140.2164647586478!3d35.982088500017966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60226e543640efe3%3A0xc2375d4a48bd8b4b!2sUshiku+Buddha!5e1!3m2!1sen!2sjp!4v1558444136930!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-<br><a href="head">go to top</a>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 
@@ -349,7 +349,7 @@ Map<br>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
 <br><br>
-<a href="head">go to top</a>
+
 <!-- フッタ -->
  <footer>
  <span class="white">Copyright 2019/05/12 torokoid</span>
