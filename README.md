@@ -134,7 +134,7 @@ screen and (orientation: landscape) {
 <br><br>
 Map<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11680.858897265727!2d139.80662997033357!3d36.461630025687626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601f43af5145bf4b%3A0x4d944be2120fc085!2sMibumachi+Toy+Museum!5e1!3m2!1sen!2sjp!4v1558444981437!5m2!1sen!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+＜a href="header"＞go to top＜/a＞
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 
