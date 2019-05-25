@@ -352,6 +352,6 @@ Map<br>
 
 <!-- フッタ -->
  <footer>
- <span class="white">Copyright 2019/05/12 torokoid</span>
+ <span class="white">Copyright 2019/05/12 S.Hada</span>
  </footer>
  </body>
